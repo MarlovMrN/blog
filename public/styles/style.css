@@ -1,0 +1,15 @@
+#navbarNav {
+  justify-content: end;
+  /* background-color: red; */
+}
+
+#myprofile-pic {
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+#myprofile-bio {
+  text-align: justify;
+}
