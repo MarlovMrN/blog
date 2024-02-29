@@ -1,5 +1,5 @@
 #navbarNav {
-  justify-content: end;
+  /* justify-content: end; */
   /* background-color: red; */
 }
 
@@ -11,5 +11,5 @@
 }
 
 #myprofile-bio {
-  text-align: justify;
+  text-align: center;
 }
